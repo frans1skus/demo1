@@ -1,2 +1,3 @@
 just demo bro in init file
 branch lat2_demo1
+branch lat2_demo1
