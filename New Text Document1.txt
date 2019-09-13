@@ -1,2 +1,1 @@
-
-master doc1
+lat1 doc1
