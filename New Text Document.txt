@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-master
-=======
-asasaasasa
->>>>>>> 4d4373b24132d62f4d3f2d933c36e82638a3fe79
+
+master doc1
