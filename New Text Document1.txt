@@ -1,1 +1,2 @@
-	master doc1
+
+master doc1
